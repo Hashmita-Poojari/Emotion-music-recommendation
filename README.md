@@ -1,21 +1,22 @@
-# 🎵 MoodTunes AI
+# MoodTunes AI
 
-An AI-powered Emotion Based Music Recommendation System built using Python, Streamlit, OpenCV, and DeepFace.
+MoodTunes AI is a music recommendation system that detects a user’s emotion through facial expressions and suggests songs based on their mood. The idea behind this project is to help users avoid spending too much time scrolling through playlists without knowing what to listen to.
 
----
-
-# 🚀 Features
-
-- 🎥 Real-time webcam emotion detection
-- 😊 AI facial emotion analysis
-- 🎶 Mood-based song recommendation
-- ▶️ Clickable YouTube music links
-- 🌑 Spotify-inspired dark UI
-- ⚡ Built completely using Python
+The system uses AI-based emotion detection through a webcam and recommends songs that match the user’s current emotional state, creating a more personalized music experience.
 
 ---
 
-# 🛠 Technologies Used
+## Features
+
+- Real-time webcam emotion detection
+- Emotion-based music recommendation
+- Clickable song links
+- Dark themed user interface
+- Built completely using Python
+
+---
+
+## Technologies Used
 
 - Python
 - Streamlit
@@ -26,15 +27,15 @@ An AI-powered Emotion Based Music Recommendation System built using Python, Stre
 
 ---
 
-# 📸 Project Screenshot
+## Project Preview
 
-![Screenshot](assets/screenshot 2026-05-09 170140.png)
+![Project Screenshot](assets/screenshot.png)
 
 ---
 
-# ▶️ How To Run Project
+## How to Run
 
-## 1️⃣ Clone Repository
+Install all required libraries:
 
 ```bash
-git clone https://github.com/Hashmita-Poojari/Emotion-music-recommender.git
+pip install -r requirements.txt
