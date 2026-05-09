@@ -1,0 +1,50 @@
+{
+  "happy": [
+    {
+      "title": "Happy",
+      "artist": "Pharrell Williams",
+      "link": "https://www.youtube.com/watch?v=ZbZSe6N_BXs"
+    },
+    {
+      "title": "Good Life",
+      "artist": "OneRepublic",
+      "link": "https://www.youtube.com/watch?v=jZhQOvvV45w"
+    },
+    {
+      "title": "Best Day Of My Life",
+      "artist": "American Authors",
+      "link": "https://www.youtube.com/watch?v=Y66j_BUCBMY"
+    }
+  ],
+
+  "sad": [
+    {
+      "title": "Fix You",
+      "artist": "Coldplay",
+      "link": "https://www.youtube.com/watch?v=k4V3Mo61fJM"
+    },
+    {
+      "title": "Someone Like You",
+      "artist": "Adele",
+      "link": "https://www.youtube.com/watch?v=hLQl3WQQoQ0"
+    },
+    {
+      "title": "Let Her Go",
+      "artist": "Passenger",
+      "link": "https://www.youtube.com/watch?v=RBumgq5yVrA"
+    }
+  ],
+
+  "neutral": [
+    {
+      "title": "Lo-fi Beats",
+      "artist": "Chill Mix",
+      "link": "https://www.youtube.com/watch?v=jfKfPfyJRdk"
+    },
+    {
+      "title": "Weightless",
+      "artist": "Marconi Union",
+      "link": "https://www.youtube.com/watch?v=UfcAVejslrU"
+    }
+  ]
+}
